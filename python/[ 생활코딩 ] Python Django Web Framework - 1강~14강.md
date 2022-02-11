@@ -113,6 +113,13 @@ https://www.youtube.com/watch?v=N3Tisvuxw74&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O
 8강 Python 제어문 - 5.1. 반복문 - for 기본형식 
 --------
 https://www.youtube.com/watch?v=lMp-bLDZ7TM&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=8
+![image](https://user-images.githubusercontent.com/96629767/153634497-756b3cba-02bd-49ee-9518-74d6069f7f57.png)
+```
+names = ['egoing', 'basta', 'blackdew', 'leezche']
+
+for name in names:
+    print('Hi, '+name+' . Bye, '+name+'.') 
+```
 
 9강 Python 제어문 - 5.2. 반복문 - 다차원배열의 처리
 --------
