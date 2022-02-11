@@ -124,6 +124,31 @@ for name in names:
 9강 Python 제어문 - 5.2. 반복문 - 다차원배열의 처리
 --------
 https://www.youtube.com/watch?v=xcz1WwPm1kM&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=9
+![image](https://user-images.githubusercontent.com/96629767/153636529-acb95b9e-f265-456b-a6f5-02b71ff28d5e.png)
+```
+persons = [
+    ['egoing', 'Seoul', 'Web'],
+    ['basta', 'Seoul', 'IOT'],
+    ['blackdew', 'Tongyeong', 'ML'],
+]
+print(persons[0][0])
+
+for person in persons:
+    print(person[0]+','+person[1]+','+person[2])
+
+person = ['egoing', 'Seoul', 'Web']
+name = person[0]
+address = person[1]
+interset = person[2]
+print(name, address, interset)
+
+name, address, interest = ['egoing', 'Seoul', 'Web']
+print(name, address, interset)
+
+for name, address, interest in persons:
+    print(name+','+address+','+interest) 
+```
+ 
 
 10강 Python 제어문 - 5.3. 반복문 - Dictionary
 --------
