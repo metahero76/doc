@@ -38,6 +38,21 @@ https://www.youtube.com/watch?v=fKxh7xpGZig&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O
 4강 Python 제어문 - 4.1. 조건문의 기본형식
 --------
 https://www.youtube.com/watch?v=uQb4AdS8yiA&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=4
+ 
+![image](https://user-images.githubusercontent.com/96629767/153629385-b0d0894f-2fd8-42a3-a36e-1a8398edc3d2.png)
+```
+# 012
+if True:
+    print(1)
+print(2)
+
+print('---')
+
+print(0)
+if False:
+    print(1)
+print(2)
+```
 
 5강 Python 제어문 - 4.2. 조건문 - else
 --------
