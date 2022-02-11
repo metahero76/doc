@@ -153,6 +153,29 @@ for name, address, interest in persons:
 10강 Python 제어문 - 5.3. 반복문 - Dictionary
 --------
 https://www.youtube.com/watch?v=QBsXqzM4CQM&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=10
+![image](https://user-images.githubusercontent.com/96629767/153637883-03f0bfab-da05-41e6-bbcd-cc87b347cc4a.png)
+```
+person = {'name': 'egoing', 'address': 'Seoul', 'interset': 'Web'}
+print(person['name'])
+
+for key in person:
+    print(key, person[key])
+
+persons = [
+    {'name': 'egoing', 'address': 'Seoul', 'interset': 'Web'},
+    {'name': 'basta', 'address': 'Seoul', 'interset': 'IOT'},
+    {'name': 'blackdew', 'address': 'Tongyeong', 'interset': 'ML'}
+]
+
+print('==== persons ====')
+for person in persons:
+    # print(person)
+    for key in person:
+        print(key, ":", person[key])
+    print('------------')
+```
+ 
+ 
 
 11강 Python 제어문 - 6. 수업을 마치며
 --------
