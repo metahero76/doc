@@ -110,3 +110,8 @@ https://www.youtube.com/watch?v=YDDE0Nnxob4&list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawl
 14강 Python Django Web Framework - 14/14. 수업을 마치며
 --------
 https://www.youtube.com/watch?v=hhDSBedPOOs&list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG&index=14
+
+
+Python Django React연동
+--------
+https://junlab.tistory.com/187
