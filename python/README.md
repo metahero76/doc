@@ -17,3 +17,7 @@ Download Python | Python.org
 ## 4. 파이썬 코드실행
 
 ![image](https://user-images.githubusercontent.com/96629767/153528210-39a0a5bd-7e88-4e04-baf1-7377af3cf54d.png)
+
+## 5. html미리보기 확장기능
+![image](https://user-images.githubusercontent.com/96629767/153541412-dbe25814-1298-4ee6-8e95-d70cbcd230ce.png)
+![image](https://user-images.githubusercontent.com/96629767/153541707-64165d91-8d02-447e-9ac7-65c4a7711cfd.png)
