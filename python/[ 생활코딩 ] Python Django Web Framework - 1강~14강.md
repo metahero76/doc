@@ -2,13 +2,13 @@
 ====== [ 생활코딩 ] Python 제어문 1강~11강 </span> ====== 
 --------------------------------------------------
 
-1강 Python : [제어문 - 1. 오리엔테이션](https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=1)
+1강 Python : [제어문 - 1. 오리엔테이션](https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=1){:target="_blank"}
 --------
 
 
 2강 Python 제어문 - 2. Boolean
 --------
-https://www.youtube.com/watch?v=7ATvsRgzkIU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=2{:target="_blank"}
+https://www.youtube.com/watch?v=7ATvsRgzkIU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=2
 
 3강 Python 제어문 - 3. 비교 연산자
 --------
