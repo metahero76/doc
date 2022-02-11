@@ -2,9 +2,9 @@
 ====== [ 생활코딩 ] Python 제어문 1강~11강 </span> ====== 
 --------------------------------------------------
 
-1강 Python : [제어문 - 1. 오리엔테이션](https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=1){:target="_blank"}
+1강 Python : [제어문 - 1. 오리엔테이션]
 --------
-
+[건망증이 심한 엔지니어](https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=1){:target="_blank"}
 
 2강 Python 제어문 - 2. Boolean
 --------
