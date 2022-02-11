@@ -10,4 +10,5 @@ Download Python | Python.org
 
 
 ## 권장되는 확장팩 설치
-![image](https://user-images.githubusercontent.com/96629767/153527239-4db62134-905c-421c-b551-9a33c4793588.png)
+![image](https://user-images.githubusercontent.com/96629767/153527442-d3b6f70b-eda7-4859-bcc3-71a70490c9ba.png)
+
