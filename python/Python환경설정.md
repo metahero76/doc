@@ -10,8 +10,12 @@ https://code.visualstudio.com/docs/?dv=win
 https://www.python.org/downloads/
 ![image](https://user-images.githubusercontent.com/96629767/153527291-4f03dc4c-91f3-4810-9d21-b16c1a489cea.png)
 
-## 3. 권장되는 확장팩 설치
 
+## 3. 권장되는 확장팩 설치
+확장팩이 설치되지 않았다면 설치해야하고 만약 기존에 확장팩이 설치되어 있었음에도 확장팩을 인식하지 못한다면
+(확장팩을 사용안함, 사용함)재기동을 진행하거나 제거했다가 재설치 해면된다.<br>
+
+![image](https://user-images.githubusercontent.com/96629767/153624428-73488534-e76d-4da9-b18e-454eefd23e46.png)
 ![image](https://user-images.githubusercontent.com/96629767/153527442-d3b6f70b-eda7-4859-bcc3-71a70490c9ba.png)
 
 ## 4. 파이썬 코드실행
