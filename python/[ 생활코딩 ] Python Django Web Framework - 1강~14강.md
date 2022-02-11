@@ -2,47 +2,47 @@
 ====== [ 생활코딩 ] Python 제어문 1강~11강 </span> ====== 
 --------------------------------------------------
 
-1강
+1강 Python : 제어문 - 1. 오리엔테이션
 --------
 https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=1
 
-2강
+2강 Python 제어문 - 2. Boolean
 --------
 https://www.youtube.com/watch?v=7ATvsRgzkIU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=2
 
-3강
+3강 Python 제어문 - 3. 비교 연산자
 --------
 https://www.youtube.com/watch?v=fKxh7xpGZig&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=3
 
-4강
+4강 Python 제어문 - 4.1. 조건문의 기본형식
 --------
 https://www.youtube.com/watch?v=uQb4AdS8yiA&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=4
 
-5강
+5강 Python 제어문 - 4.2. 조건문 - else
 --------
 https://www.youtube.com/watch?v=13-M9GNq_CI&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=5
 
-6강
+6강 Python 제어문 - 4.3. 조건문 elif
 --------
 https://www.youtube.com/watch?v=SJ5k8AtZYm0&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=6
 
-7강
+7강 Python 제어문 - 4.4. 조건문 중첩
 --------
 https://www.youtube.com/watch?v=N3Tisvuxw74&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=7
 
-8강
+8강 Python 제어문 - 5.1. 반복문 - for 기본형식 
 --------
 https://www.youtube.com/watch?v=lMp-bLDZ7TM&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=8
 
-9강
+9강 Python 제어문 - 5.2. 반복문 - 다차원배열의 처리
 --------
 https://www.youtube.com/watch?v=xcz1WwPm1kM&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=9
 
-10강
+10강 Python 제어문 - 5.3. 반복문 - Dictionary
 --------
 https://www.youtube.com/watch?v=QBsXqzM4CQM&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=10
 
-11강
+11강 Python 제어문 - 6. 수업을 마치며
 --------
 https://www.youtube.com/watch?v=ATNPfFxUjyU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=11
 
