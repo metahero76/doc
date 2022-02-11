@@ -54,8 +54,18 @@ if False:
 print(2)
 ```
  ![image](https://user-images.githubusercontent.com/96629767/153630510-983fd4cf-3692-4269-855c-7a512ddc2f0d.png)
- 
+```
+# 기본아이디
+id = "egoing"
 
+# 입력값
+input_id = input('id : ')
+print("입력내용", input_id)
+
+if input_id == id:
+    print('Welcome')
+```
+ 
 5강 Python 제어문 - 4.2. 조건문 - else
 --------
 https://www.youtube.com/watch?v=13-M9GNq_CI&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=5
