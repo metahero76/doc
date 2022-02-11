@@ -44,8 +44,8 @@ https://www.youtube.com/watch?v=QBsXqzM4CQM&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O
 --------
 https://www.youtube.com/watch?v=ATNPfFxUjyU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=11
 
-
-
+<br>
+<br>
 
 [ 생활코딩 ] Python Django Web Framework - 1강~14강
 --------------------------------------------------
