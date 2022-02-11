@@ -7,7 +7,7 @@
 <a href="" target="_blank">
 
 https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=1
-
+```
 print(True)
 print(False)
 print(1 == 1)
@@ -17,7 +17,7 @@ print("하늘" == "하늘")
 print("하늘" == "바다")
 print("하늘" == "하늘" and "바다" == "바다" or "바다" == "시냇물")
 print("하늘" == "하늘" or "바다" == "바다")
-  
+```  
 
 2강 Python 제어문 - 2. Boolean
 --------
