@@ -18,6 +18,7 @@ https://www.python.org/downloads/
 
 ![image](https://user-images.githubusercontent.com/96629767/153624428-73488534-e76d-4da9-b18e-454eefd23e46.png)
 ![image](https://user-images.githubusercontent.com/96629767/153527442-d3b6f70b-eda7-4859-bcc3-71a70490c9ba.png)
+![image](https://user-images.githubusercontent.com/96629767/153626187-123b452a-e122-495f-a18d-399626750fe5.png)
 
 ## 4. 파이썬 코드실행
 
