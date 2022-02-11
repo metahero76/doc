@@ -12,3 +12,5 @@ Download Python | Python.org
 ## 3. 권장되는 확장팩 설치
 ![image](https://user-images.githubusercontent.com/96629767/153527442-d3b6f70b-eda7-4859-bcc3-71a70490c9ba.png)
 
+## 4. 파이썬 코드실행
+![image](https://user-images.githubusercontent.com/96629767/153528210-39a0a5bd-7e88-4e04-baf1-7377af3cf54d.png)
