@@ -1,7 +1,9 @@
 
-<font color="green"> [ 생활코딩 ] Python 제어문 1강~11강 </span>
-
+### [ 생활코딩 ] Python 제어문 1강~11강 </span>
 --------------------------------------------------
+<br>
+<br>
+
 1강
 --------
 https://www.youtube.com/watch?v=ySlod5oxoV8&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=1
@@ -51,6 +53,8 @@ https://www.youtube.com/watch?v=ATNPfFxUjyU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O
 
 [ 생활코딩 ] Python Django Web Framework - 1강~14강
 --------------------------------------------------
+<br>
+<br>
 
 1강 Python Django Web Framework - 1/14. 수업소개
 --------
