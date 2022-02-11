@@ -7,7 +7,7 @@ https://code.visualstudio.com/docs/?dv=win
 
 ## 2. 파이썬 설치
 
-Download Python | Python.org
+https://www.python.org/downloads/
 ![image](https://user-images.githubusercontent.com/96629767/153527291-4f03dc4c-91f3-4810-9d21-b16c1a489cea.png)
 
 ## 3. 권장되는 확장팩 설치
