@@ -73,6 +73,38 @@ https://www.youtube.com/watch?v=13-M9GNq_CI&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O
 6강 Python 제어문 - 4.3. 조건문 elif
 --------
 https://www.youtube.com/watch?v=SJ5k8AtZYm0&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=6
+ ```
+ # 기본아이디
+id = "egoing"
+
+# 입력값
+input_id = input('id : ')
+print("입력내용", input_id)
+
+# if
+if input_id == id:
+    print('Welcome')
+
+if input_id != id:
+    print('Who?')    
+
+# if else
+if input_id == id:
+    print('반가워!')
+else:
+    print('누구니?')
+
+# if elif
+if input_id == id:
+    print(id+' 반가워!')
+elif input_id == 'myId001':
+    print('myId001 반가워?')
+elif input_id == 'myId002':    
+    print('myId002 반가워?')
+else:
+    print('누구세요?')
+ ```
+ 
 
 7강 Python 제어문 - 4.4. 조건문 중첩
 --------
