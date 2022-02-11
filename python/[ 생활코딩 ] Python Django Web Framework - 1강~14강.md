@@ -53,6 +53,8 @@ if False:
     print(1)
 print(2)
 ```
+ ![image](https://user-images.githubusercontent.com/96629767/153630510-983fd4cf-3692-4269-855c-7a512ddc2f0d.png)
+ 
 
 5강 Python 제어문 - 4.2. 조건문 - else
 --------
