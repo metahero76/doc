@@ -8,7 +8,7 @@
 
 2강 Python 제어문 - 2. Boolean
 --------
-https://www.youtube.com/watch?v=7ATvsRgzkIU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=2
+https://www.youtube.com/watch?v=7ATvsRgzkIU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=2{:target="_blank"}
 
 3강 Python 제어문 - 3. 비교 연산자
 --------
