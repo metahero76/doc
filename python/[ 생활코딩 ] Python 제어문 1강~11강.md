@@ -269,6 +269,11 @@ for person in persons:
 ## 11강 Python 제어문 - 6. 수업을 마치며
 
 https://www.youtube.com/watch?v=ATNPfFxUjyU&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=11
+      
+
+## 01 보강 Python 함수사용
+
+      
 
 ## Python Django React연동
 
