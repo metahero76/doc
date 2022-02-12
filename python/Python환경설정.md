@@ -22,10 +22,10 @@ https://www.python.org/downloads/
 ![image](https://user-images.githubusercontent.com/96629767/153702544-5d7790dc-da9c-432e-8900-25c416a109a5.png)
 ```
 Python 설치
-확장(단축키: Ctrl+shift+X)을 실행하여 python 을 검색합니다.
-python 설치 - InteliSense, liniting, 디버깅, 코드탐색, Jupyter Notebook 지원 등의 기능 지원
-python for VSCode 설치 - 파이썬 언어팩, 구문강조 스니펫 등 기능 지원
-Python Extension Pack 설치 - 멀티쓰레드 디버깅 지원 IntelliCode 지원 기능
+1. 확장(단축키: Ctrl+shift+X)을 실행하여 python 을 검색합니다.
+2. python 설치 - InteliSense, liniting, 디버깅, 코드탐색, Jupyter Notebook 지원 등의 기능 지원
+3. python for VSCode 설치 - 파이썬 언어팩, 구문강조 스니펫 등 기능 지원
+4. Python Extension Pack 설치 - 멀티쓰레드 디버깅 지원 IntelliCode 지원 기능
 ```
 
 ## 4. 파이썬 코드실행
