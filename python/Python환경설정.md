@@ -19,6 +19,13 @@ https://www.python.org/downloads/
 ![image](https://user-images.githubusercontent.com/96629767/153624428-73488534-e76d-4da9-b18e-454eefd23e46.png)
 ![image](https://user-images.githubusercontent.com/96629767/153527442-d3b6f70b-eda7-4859-bcc3-71a70490c9ba.png)
 ![image](https://user-images.githubusercontent.com/96629767/153626187-123b452a-e122-495f-a18d-399626750fe5.png)
+```
+Python 설치
+확장(단축키: Ctrl+shift+X)을 실행하여 python 을 검색합니다.
+python 설치 - InteliSense, liniting, 디버깅, 코드탐색, Jupyter Notebook 지원 등의 기능 지원
+python for VSCode 설치 - 파이썬 언어팩, 구문강조 스니펫 등 기능 지원
+Python Extension Pack 설치 - 멀티쓰레드 디버깅 지원 IntelliCode 지원 기능
+```
 
 ## 4. 파이썬 코드실행
 
@@ -27,3 +34,5 @@ https://www.python.org/downloads/
 ## 5. html미리보기 확장기능
 ![image](https://user-images.githubusercontent.com/96629767/153541412-dbe25814-1298-4ee6-8e95-d70cbcd230ce.png)
 ![image](https://user-images.githubusercontent.com/96629767/153541707-64165d91-8d02-447e-9ac7-65c4a7711cfd.png)
+![image](https://user-images.githubusercontent.com/96629767/153702479-54240dd6-d518-4389-bb89-bade4c2ab370.png)
+
