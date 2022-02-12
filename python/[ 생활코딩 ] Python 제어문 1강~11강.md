@@ -111,6 +111,19 @@ else:
 ## 7강 Python 제어문 - 4.4. 조건문 중첩
 
 https://www.youtube.com/watch?v=N3Tisvuxw74&list=PLuHgQVnccGMA4ZgmqgKZhY9X39Ew8O9k5&index=7
+    
+```
+str = "          나는 권지용입니다. Study              "
+lenStr = len(str)  # 문자열 길이 구하기
+findStr = str.find('i')  # 특정 문자 찾기
+upeerStr = str.upper()  # 문자열 대문자로
+lowerStr = str.lower()  # 문자열 소문자로
+stripStr = str.strip()  # 양쪽 공백 없애기
+replaceStr = str.replace("Good", "Bad")  # 특정 문자열 바꾸기
+splitStr = str.split()  # 문자열 나누기    
+```
+    
+    
 
 ## 8강 Python 제어문 - 5.1. 반복문 - for 기본형식
 
