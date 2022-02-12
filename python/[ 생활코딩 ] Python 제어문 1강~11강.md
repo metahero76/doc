@@ -180,6 +180,7 @@ print("식사류       :", menu["food"][2]["name"])
 print("식사류       :", menu["food"][4]["name"])
       
 ```
+![image](https://user-images.githubusercontent.com/96629767/153717894-19b694d1-7823-4794-9db4-fae7e673b3cb.png)
 
 ## 7강 Python 제어문 - 4.4. 조건문 중첩
 
