@@ -35,5 +35,5 @@ Python 설치
 ## 5. html미리보기 확장기능
 ![image](https://user-images.githubusercontent.com/96629767/153541412-dbe25814-1298-4ee6-8e95-d70cbcd230ce.png)
 ![image](https://user-images.githubusercontent.com/96629767/153541707-64165d91-8d02-447e-9ac7-65c4a7711cfd.png)
-![image](https://user-images.githubusercontent.com/96629767/153702479-54240dd6-d518-4389-bb89-bade4c2ab370.png)
+
 
